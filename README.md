@@ -15,7 +15,7 @@ All code is written for **learning and exploration purposes**, with an emphasis 
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Build a strong foundation in qubits, gates, and quantum circuits.  
 - Gain hands-on experience with Qiskit simulation and experimentation.  
@@ -36,7 +36,14 @@ All code is written for **learning and exploration purposes**, with an emphasis 
 
 ## Installation & Setup
 
-### 1. Clone the Repository
+### Clone the Repository
 ```bash
-git clone https://github.com/your-username/Quantum-Computing.git
+1.git clone https://github.com/your-username/Quantum-Computing.git
 cd Quantum-Computing
+
+2. Install Python
+Ensure you have Python 3.8+ installed. You can check with:
+python --version
+
+3.Install Qiskit via pip:
+pip install qiskit[visualization]
